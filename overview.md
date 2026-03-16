@@ -22,6 +22,8 @@ bibliography: references.bib
 - Continuous flow synthesis of DMT analogues (including 5-MeO-DMT) with therapeutic potential for cluster headache and depression [@simoens2025-dmt-flow].
   - DMT can easily oxidize: "in order to prevent oxidation towards the respective N-oxides, a known degradation product of these compounds"
 
+## Efficacy
+
 ### Triptans
 
 - Sumatriptan (Imitrex) subcutaneous (SC) injection prescription info sheet [@sumatriptan-subcutaneous-injection]
