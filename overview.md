@@ -33,3 +33,5 @@ bibliography: references.bib
 
 - Oxygen onset time [@oxygen-onset]
   - **Very roughly**, 90% of the patients who find relief from high-flow oxygen find it withing 5-20 minutes of starting using oxygen.
+- Oxygen therapy (OT) review [@mo2021-oxygen-therapy]
+  - OT toxicity: "Little risk of oxygen damage because OT duration is <1 h"
