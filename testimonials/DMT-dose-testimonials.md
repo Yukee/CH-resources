@@ -9,7 +9,6 @@
 * ChickenDaddy
   * when I've used freebase to abort: 10-15mg seems to do the trick nicely (most of the time) or 20-25mg will certainly do it. on my vape: 2-5 hits: so roughly 4-20mg
 
-
 ## Analysis
 
 * Assuming JimBob and the others pull about the same amount of vaporized liquid into their lungs, then they need about the same dose of DMT to abort
